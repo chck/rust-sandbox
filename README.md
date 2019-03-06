@@ -1,8 +1,8 @@
 # rust-sandbox
-> https://rust-lang-ja.github.io/
+> https://www.rust-lang.org/
 
 ## Requirements
 ```
-rust 1.17.X
+rust 1.33.X
 ```
 
