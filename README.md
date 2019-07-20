@@ -1,8 +1,8 @@
 # rust-sandbox
-> https://www.rust-lang.org/
+ref. https://www.youtube.com/watch?v=zF34dRivLOw
 
 ## Requirements
 ```
-rust 1.33.X
+rust = 1.36.*
 ```
 
